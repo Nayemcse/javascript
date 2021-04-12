@@ -1,0 +1,91 @@
+<!--layout-->
+body{
+    
+background-color:white;
+}
+
+#header{
+    background-color:white;
+    height:90px;
+    margin:16px;
+    text-align: center;
+    background-color:antiquewhite;
+   
+
+}
+#header h7{
+    font-size:50px;
+    color:Black;
+}
+
+
+
+
+#navbar ul{
+    background-color:dimgrey;
+    height:25px;
+   padding:10px;
+    list-style-type:none;
+    text-align: center;
+    margin:10px;
+  
+}
+    
+li {
+   display:inline;
+ padding: 50px;
+  
+}
+ul li a{
+    text-decoration:none;
+    color:white;
+    font-size:25px;
+    font-family: white;
+}
+ul li a:hover{
+    color:red;
+    background-color:white;
+    border-radius:5px;
+}
+  
+
+.main{
+    background-color:dimgrey;
+    border:2px solid red;
+    border-radius:12px;
+    color:white;
+    font-size:29px;
+    padding:18px;
+   margin-top:10px;
+    margin-right:250px;
+    width:100%;
+  
+}
+
+
+
+/* letout*/
+
+
+
+/*============= header section===============*/
+.bd img{
+
+   
+}
+
+
+
+<!--fgksgk-->
+
+
+#footer{
+    background-color:white;
+    color:chocolate;
+    margin:20px;
+    height:60px;
+   clear:both;
+    border-radius:34px;
+    background-image:("footer,png");
+    
+}
